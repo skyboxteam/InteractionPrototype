@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{06AB776B-745D-FD82-35B0-7B8D5CDDE52E}") = "InteractionPrototype", "Assembly-CSharp.csproj", "{C9DAA280-EE44-C3A1-0B82-7B33D7FE12ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9DAA280-EE44-C3A1-0B82-7B33D7FE12ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9DAA280-EE44-C3A1-0B82-7B33D7FE12ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9DAA280-EE44-C3A1-0B82-7B33D7FE12ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9DAA280-EE44-C3A1-0B82-7B33D7FE12ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
